@@ -68,3 +68,12 @@ El proyecto está en fase de **aprendizaje y pruebas**:
 │ └── main.jsx
 └── package.json
 
+
+---
+
+## 🧑‍💻 Autor
+
+Proyecto desarrollado por **Nacho** como práctica personal de **Full Stack Developer**, explorando las bases de un ecommerce y el uso de autenticación con JWT.
+
+
+
