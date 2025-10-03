@@ -53,3 +53,18 @@ El proyecto está en fase de **aprendizaje y pruebas**:
 
 ## 📂 Estructura del proyecto
 
+/backend
+├── app.py
+├── models.py
+├── routes.py
+└── create_admin.py
+
+/frontend
+├── src/
+│ ├── pages/
+│ ├── components/
+│ ├── context/
+│ ├── App.jsx
+│ └── main.jsx
+└── package.json
+
