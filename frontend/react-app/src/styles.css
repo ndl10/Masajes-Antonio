@@ -1,0 +1,6 @@
+* { box-sizing: border-box; }
+body { margin: 0; color:#222 }
+
+/* Keep small custom spacing and overrides that complement Bootstrap */
+.hero { background:#f8f9fa; padding:20px; border-radius:6px; margin-top:12px }
+.footer { margin-top:20px }
